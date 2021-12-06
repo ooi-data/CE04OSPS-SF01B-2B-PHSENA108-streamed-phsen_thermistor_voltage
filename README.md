@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSPS-SF01B-2B-PHSENA108-streamed-phsen_thermistor_voltage
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Thermistor Voltage Data<br>
+Instrument Group Code: PHSEN<br>
